@@ -42,12 +42,3 @@ no sé bien qué poner aquí, la verdad. estudio sistemas computacionales, ando 
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
----
-
-<p align="center">
-  <img height="160" src="https://github-stats-extended.vercel.app/api?username=MiltonPanuco&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MiltonPanuco&layout=compact&hide_border=true&theme=default" />
-</p>
-<p align="center">
-  <sub>los stats dicen que soy productivo. yo no estoy tan seguro.</sub>
-</p>
