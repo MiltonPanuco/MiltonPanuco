@@ -1,7 +1,10 @@
-<svg width="700" height="80" viewBox="0 0 700 80" xmlns="http://www.w3.org/2000/svg">
-  <text x="350" y="34" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="700" fill="#1f2328" text-anchor="middle">hola, soy Milton</text>
-  <text x="350" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#1f2328" text-anchor="middle">(meno, coco, cisco, también respondo a esos)</text>
-</svg>
+<p align="center">
+  <picture> 
+    <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg"> 
+    <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg"> 
+    <img alt="hola, soy Milton — meno, coco, cisco, también respondo a esos" src="./banner-dark.svg"> 
+  </picture>
+</p>
 
 ---
 
