@@ -2,28 +2,28 @@
   <picture> 
     <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg"> 
     <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg"> 
-    <img alt="hola, soy Milton — meno, coco, cisco, también respondo a esos" src="./banner-dark.svg"> 
+    <img alt="hey, i'm Milton — meno, cisco, i answer to those too" src="./banner-dark.svg"> 
   </picture>
 </p>
 
 <p align="center">
-  programo cosas. a veces funcionan.
+  i build stuff. sometimes it even works.
 </p>
 
 ---
 
-no sé bien qué poner aquí, la verdad. estudio sistemas computacionales, ando metido en un par de proyectos, y sí, sigo abriendo VSCode todos los días como quien va al gimnasio: no siempre con ganas, pero ahí voy.
+not really sure what i'm supposed to put here, honestly. i'm studying computer systems engineering, working on a couple projects, and yeah, i still open VSCode every day like people go to the gym: not always feeling it, but i show up anyway.
 
-- 🔧 ahorita en **SED**, un sistema de evaluación docente para universidades que un día va a ser SaaS (eso dicen | v.2)
-- 🎬 también ando en **TAU**, algo de streaming de cine nayarita — todavía no sale, no preguntes
-- 💻 hice varias webs freelance: clínicas, una parroquia, consultorio psicológico, todas con su cms con Laravel + React/Inertia
-- 💼 si necesitas algo así, ando disponible — escríbeme
-- ✍️ cuando el código me cansa, escribo. cuando escribir me cansa, programo. es un ciclo
-- 📫 saladog05@gmail.com, por si acaso
+- 🔧 currently working on **SED**, a teacher evaluation system for universities that's supposed to become a SaaS someday (that's the plan | v.2)
+- 🎬 also working on **TAU**, a streaming thing for movies made in Nayarit — it's not out yet, don't ask
+- 💻 built a few freelance websites: clinics, a church, a psychology practice, all with their own CMS using Laravel + React/Inertia
+- 💼 if you need something like that, i'm available — hit me up
+- ✍️ when coding gets tiring, i write. when writing gets tiring, i code. it's a cycle
+- 📫 saladog05@gmail.com, just in case
 
 ---
 
-### con lo que trabajo (cuando trabajo)
+### stuff i work with (when i actually work)
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -38,4 +38,3 @@ no sé bien qué poner aquí, la verdad. estudio sistemas computacionales, ando 
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
-
